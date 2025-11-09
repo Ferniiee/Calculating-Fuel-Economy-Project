@@ -1,0 +1,10 @@
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\bin\Debug\Calculating Fuel Economy.exe.config
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\bin\Debug\Calculating Fuel Economy.exe
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\bin\Debug\Calculating Fuel Economy.pdb
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating Fuel Economy.csproj.AssemblyReference.cache
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating_Fuel_Economy.Form1.resources
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating_Fuel_Economy.Properties.Resources.resources
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating Fuel Economy.csproj.GenerateResource.cache
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating Fuel Economy.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating Fuel Economy.exe
+C:\Users\nuzzi\source\repos\Calculating Fuel Economy\Calculating Fuel Economy\obj\Debug\Calculating Fuel Economy.pdb
