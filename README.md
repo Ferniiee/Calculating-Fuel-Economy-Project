@@ -15,4 +15,4 @@ Program that tells you your car mile's per gallon.
 ## What I Learned
 - Writing functions in C#
 - Debugging logic errors
-- Structur9ing small .NET applications
+- Structuring small .NET applications
